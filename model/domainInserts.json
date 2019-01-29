@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "1",
+    "name": "Security",
+    "description": "Security description"
+  },
+  {
+    "_id": "2",
+    "name": "Development",
+    "description": "Development description"
+  },
+  {
+    "_id": "3",
+    "name": "Contracts",
+    "description": "Contracts description"
+  }
+]

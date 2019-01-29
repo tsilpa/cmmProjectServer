@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "1",
+    "question": "Meets basic security requirements",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "2",
+    "question": "Meets all policy and regulatory requirements",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "3",
+    "question": "Service Provider identified",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "4",
+    "question": "Repeatable Installation process",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "5",
+    "question": "Automated installation process",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "6",
+    "question": "Monthly patch checking",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "7",
+    "question": "Repeatable Patch deployment",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "8",
+    "question": "Automated Patch deployment",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "9",
+    "question": "Security Configurations Baselined defined",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "10",
+    "question": "Config Baselines can be audited",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "11",
+    "question": "Automated Config Baseline management",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "12",
+    "question": "License Acquisition Process ad hoc (user based)",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "13",
+    "question": "License Acquisition Process defined / Repeatable",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "14",
+    "question": "License Acquisition at scale",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "15",
+    "question": "Enterprise licensing has been evaluated",
+    "description": "",
+    "domain_id" : "1"
+  },
+  {
+    "_id": "16",
+    "question": "Deployment levels managed by service provider",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "17",
+    "question": "Repeatable process to discover Deployment levels",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "18",
+    "question": "Basic service monitoring (Up / Down)",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "19",
+    "question": "Detailed service monitoring (performance measurement)",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "20",
+    "question": "Service Provider has 2 or more team members identified with basic skills",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "21",
+    "question": "Service Provider has 4 or more team members identified with a high level of skills",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "22",
+    "question": "One to three development teams using the tech",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "23",
+    "question": "Four or more development teams using the tech",
+    "description": "",
+    "domain_id" : "2"
+  },
+  {
+    "_id": "24",
+    "question": "Support contracts are in place (or self-support)",
+    "description": "",
+    "domain_id" : "3"
+  },
+  {
+    "_id": "25",
+    "question": "Support contracts direct to Postal are in place",
+    "description": "",
+    "domain_id" : "3"
+  }
+]
